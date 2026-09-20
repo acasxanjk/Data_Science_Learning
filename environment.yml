@@ -1,0 +1,12 @@
+name: data-learning
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - jupyterlab
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - pandas
+
