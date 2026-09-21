@@ -7,7 +7,6 @@ This repository documents my learning journey in Python data analysis, data visu
 - Python fundamentals for data analysis
 - Matplotlib data visualization
 - Pandas and NumPy
-- Random walk simulations
 - Introductory machine learning
 
 ## Environment Setup
