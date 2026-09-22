@@ -3,3 +3,4 @@
 .ipynb_checkpoints/
 __pycache__/
 .env
+Notebook/visualization_base/Plotly_base.html
